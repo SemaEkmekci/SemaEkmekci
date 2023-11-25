@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sema</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Machine learning ,Deep learning, Image processing**
+- 🌱 I’m currently learning **Machine learning ,Deep learning, Image processing, Web Programming**
 
 - 👨‍💻 All of my projects are available at [ekmekci.semanur.unaux.com](ekmekci.semanur.unaux.com)
 
