@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine learning ,Deep learning, Image processing, Web Programming**
 
-- 👨‍💻 All of my projects are available at [ekmekci.semanur.unaux.com](ekmekci.semanur.unaux.com)
+- 👨‍💻 All of my projects are available at https://semaekmekci.github.io/personal-site/
 
 - 📫 How to reach me **ekmekci.semanur@gmail.com**
 
