@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+<h1 align="center">Hi 👋, I'm Sema</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemaEkmekci" alt="SemaEkmekci" /> </p>
 
