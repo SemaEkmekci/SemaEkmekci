@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
 <h1 align="center">Hi 👋, I'm Sema</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
