@@ -19,7 +19,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sema nur ekmekci̇" height="30" width="40" />
   </a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -78,10 +78,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
-      <br>Android
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -114,6 +110,6 @@
     </td>
   </tr>
 </table>
-
+-->
 
 
